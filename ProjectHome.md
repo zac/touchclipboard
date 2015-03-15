@@ -1,0 +1,1 @@
+With TouchClipboard, developers can easily drop a few simple classes into their iPhone app to add the ability to copy and paste to and from a global clipboard.
